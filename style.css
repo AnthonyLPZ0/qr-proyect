@@ -10,12 +10,12 @@ body{
    display: flex;
    align-items: center;/*para que el contenido este en el centro*/
    justify-content: center;/*para toda la caja este en el centro*/
-   min-height: 100vh;
+   min-height: 100vh;/*para que tome todo el alto de la pantalla*/
 }
 
 .container{
-   width: 80%;
-   max-width: 280px;
+   width: 80%;/*ocupa el ancho de la pantalla*/
+   max-width: 280px;/*establece un ancho fijo*/
    padding: 10px;
    border-radius: 10px;
    background-color: white;
