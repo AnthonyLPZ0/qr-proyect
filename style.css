@@ -8,8 +8,8 @@ body{
    background-color: hsl(212, 45%, 89%);
    width: 100%;
    display: flex;
-   align-items: center;
-   justify-content: center;
+   align-items: center;/*para que el contenido este en el centro*/
+   justify-content: center;/*para toda la caja este en el centro*/
    min-height: 100vh;
 }
 
