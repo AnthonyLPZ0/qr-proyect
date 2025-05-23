@@ -22,3 +22,8 @@ body{
    border: 1px solid transparent;
    border-radius: 5px;
 }
+
+.imageQR{
+   width: 100%;
+   border-radius: 10px;
+}
